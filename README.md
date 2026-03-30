@@ -1,6 +1,6 @@
 ** GIT Workflow
 
-* git init 
+** git init 
 - initializes git on current directory
 
 * git add file-name
