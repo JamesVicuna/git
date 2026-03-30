@@ -1,4 +1,4 @@
-** GIT Workflow
+**GIT Workflow
 
 ** git init 
 - initializes git on current directory
